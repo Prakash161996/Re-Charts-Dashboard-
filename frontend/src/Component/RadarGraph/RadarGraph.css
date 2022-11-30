@@ -1,0 +1,12 @@
+.col-sm-12{
+    border:2px solid gray;
+    border-radius: 5px;
+    margin:12px;
+}
+p{
+    font-size: 32px;
+    font-style: italic;
+    color: orangered;
+}
+
+   
